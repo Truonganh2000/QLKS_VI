@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Quanlyphong));
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txttinhtrang = new System.Windows.Forms.TextBox();
+            this.txtloaiphong = new System.Windows.Forms.TextBox();
             this.btxoa = new System.Windows.Forms.Button();
             this.btthem = new System.Windows.Forms.Button();
             this.txtgia = new System.Windows.Forms.TextBox();
@@ -41,8 +43,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.dgv = new System.Windows.Forms.DataGridView();
-            this.txtloaiphong = new System.Windows.Forms.TextBox();
-            this.txttinhtrang = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.SuspendLayout();
@@ -83,10 +83,24 @@
             this.groupBox1.Text = "Thông Tin Phòng";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
+            // txttinhtrang
+            // 
+            this.txttinhtrang.Location = new System.Drawing.Point(192, 164);
+            this.txttinhtrang.Name = "txttinhtrang";
+            this.txttinhtrang.Size = new System.Drawing.Size(303, 29);
+            this.txttinhtrang.TabIndex = 20;
+            // 
+            // txtloaiphong
+            // 
+            this.txtloaiphong.Location = new System.Drawing.Point(192, 101);
+            this.txtloaiphong.Name = "txtloaiphong";
+            this.txtloaiphong.Size = new System.Drawing.Size(303, 29);
+            this.txtloaiphong.TabIndex = 19;
+            // 
             // btxoa
             // 
             this.btxoa.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btxoa.Location = new System.Drawing.Point(611, 184);
+            this.btxoa.Location = new System.Drawing.Point(773, 28);
             this.btxoa.Name = "btxoa";
             this.btxoa.Size = new System.Drawing.Size(112, 41);
             this.btxoa.TabIndex = 18;
@@ -97,7 +111,7 @@
             // btthem
             // 
             this.btthem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btthem.Location = new System.Drawing.Point(611, 60);
+            this.btthem.Location = new System.Drawing.Point(514, 28);
             this.btthem.Name = "btthem";
             this.btthem.Size = new System.Drawing.Size(112, 41);
             this.btthem.TabIndex = 17;
@@ -128,7 +142,7 @@
             // 
             this.btsua.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btsua.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btsua.Location = new System.Drawing.Point(611, 126);
+            this.btsua.Location = new System.Drawing.Point(641, 31);
             this.btsua.Name = "btsua";
             this.btsua.Size = new System.Drawing.Size(112, 38);
             this.btsua.TabIndex = 8;
@@ -181,20 +195,6 @@
             this.dgv.Size = new System.Drawing.Size(884, 296);
             this.dgv.TabIndex = 2;
             this.dgv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_CellClick);
-            // 
-            // txtloaiphong
-            // 
-            this.txtloaiphong.Location = new System.Drawing.Point(192, 101);
-            this.txtloaiphong.Name = "txtloaiphong";
-            this.txtloaiphong.Size = new System.Drawing.Size(303, 29);
-            this.txtloaiphong.TabIndex = 19;
-            // 
-            // txttinhtrang
-            // 
-            this.txttinhtrang.Location = new System.Drawing.Point(192, 164);
-            this.txttinhtrang.Name = "txttinhtrang";
-            this.txttinhtrang.Size = new System.Drawing.Size(303, 29);
-            this.txttinhtrang.TabIndex = 20;
             // 
             // Quanlyphong
             // 
