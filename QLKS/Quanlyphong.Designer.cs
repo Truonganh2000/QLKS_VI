@@ -115,7 +115,11 @@
             // btthem
             // 
             this.btthem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+<<<<<<< HEAD
             this.btthem.Location = new System.Drawing.Point(750, 96);
+=======
+            this.btthem.Location = new System.Drawing.Point(514, 74);
+>>>>>>> e6a603efd2feb9993ab8414cfd73a639f6d410c7
             this.btthem.Name = "btthem";
             this.btthem.Size = new System.Drawing.Size(112, 41);
             this.btthem.TabIndex = 17;
