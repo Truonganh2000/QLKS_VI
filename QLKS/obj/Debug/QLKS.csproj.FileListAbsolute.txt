@@ -1,0 +1,261 @@
+D:\Windowsform\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\Windowsform\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Windowsform\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.Dichvuks.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+D:\Windowsform\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+G:\QLKS\QLKS\bin\Debug\QLKS.exe.config
+G:\QLKS\QLKS\bin\Debug\QLKS.exe
+G:\QLKS\QLKS\bin\Debug\QLKS.pdb
+G:\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+G:\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.LoaiPhong.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+G:\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+G:\QLKS\QLKS\obj\Debug\QLKS.exe
+G:\QLKS\QLKS\obj\Debug\QLKS.pdb
+G:\QLKS\QLKS\obj\Debug\QLKS.hoadon.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.QLKH.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Dangky.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Datdv.resources
+G:\QLKS\QLKS\obj\Debug\QLKS.Datphong.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.baobieu.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.hoadon.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.LoaiPhong.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLKH.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLTK.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Dangky.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datdv.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datphong.resources
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\WIN 10\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.frmdoimk.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.baobieu.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.frmdoimk.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.hoadon.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLKH.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLTK.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Dangky.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datdv.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datphong.resources
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Asus\Downloads\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+G:\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+G:\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+G:\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+G:\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+G:\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.baobieu.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.frmdoimk.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.hoadon.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLKH.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLTK.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Dangky.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datdv.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datphong.resources
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+G:\QLKS\QLKS\QLKS\obj\Debug\QLKS.PhieuDKview.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\stdole.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.baobieu.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.frmdoimk.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.hoadon.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.LichlvNV.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Lienhe.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.PhieuDKview.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLKH.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.QLTK.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Dangky.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datdv.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.Datphong.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.tracuunhanvien.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.khachhang.resources
+C:\Users\WIN 10\Documents\Zalo Received Files\QLKS\QLKS\QLKS\obj\Debug\QLKS.tralichlamviec.resources
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\QLKS.exe
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\QLKS.pdb
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\stdole.dll
+C:\Users\WIN 10\Desktop\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.baobieu.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.fmdangnhap.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.frmdoimk.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.hoadon.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.khachhang.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.LichlvNV.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Lienhe.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.fmmanhinh.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.tracuunhanvien.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.PhieuDKview.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.QLKH.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.QLTK.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Quanlyphong.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.ThongtinNV.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.tralichlamviec.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Dangky.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Datdv.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.Datphong.resources
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.exe
+C:\Users\WIN 10\Desktop\QLKS\obj\Debug\QLKS.pdb
