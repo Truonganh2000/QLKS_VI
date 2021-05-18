@@ -43,6 +43,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.dgv = new System.Windows.Forms.DataGridView();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.SuspendLayout();
@@ -62,6 +64,8 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.checkBox2);
+            this.groupBox1.Controls.Add(this.checkBox1);
             this.groupBox1.Controls.Add(this.txttinhtrang);
             this.groupBox1.Controls.Add(this.txtloaiphong);
             this.groupBox1.Controls.Add(this.btxoa);
@@ -77,7 +81,7 @@
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.groupBox1.Location = new System.Drawing.Point(12, 64);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(886, 272);
+            this.groupBox1.Size = new System.Drawing.Size(883, 272);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông Tin Phòng";
@@ -100,7 +104,7 @@
             // btxoa
             // 
             this.btxoa.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btxoa.Location = new System.Drawing.Point(773, 28);
+            this.btxoa.Location = new System.Drawing.Point(750, 212);
             this.btxoa.Name = "btxoa";
             this.btxoa.Size = new System.Drawing.Size(112, 41);
             this.btxoa.TabIndex = 18;
@@ -111,7 +115,7 @@
             // btthem
             // 
             this.btthem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btthem.Location = new System.Drawing.Point(514, 28);
+            this.btthem.Location = new System.Drawing.Point(750, 96);
             this.btthem.Name = "btthem";
             this.btthem.Size = new System.Drawing.Size(112, 41);
             this.btthem.TabIndex = 17;
@@ -142,7 +146,7 @@
             // 
             this.btsua.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btsua.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btsua.Location = new System.Drawing.Point(641, 31);
+            this.btsua.Location = new System.Drawing.Point(750, 159);
             this.btsua.Name = "btsua";
             this.btsua.Size = new System.Drawing.Size(112, 38);
             this.btsua.TabIndex = 8;
@@ -192,16 +196,41 @@
             this.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv.Location = new System.Drawing.Point(13, 354);
             this.dgv.Name = "dgv";
-            this.dgv.Size = new System.Drawing.Size(884, 296);
+            this.dgv.Size = new System.Drawing.Size(882, 296);
             this.dgv.TabIndex = 2;
             this.dgv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_CellClick);
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.checkBox1.Location = new System.Drawing.Point(514, 166);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(179, 31);
+            this.checkBox1.TabIndex = 21;
+            this.checkBox1.Text = "Đã Thanh Toán";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.checkBox2.Location = new System.Drawing.Point(514, 222);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(203, 31);
+            this.checkBox2.TabIndex = 22;
+            this.checkBox2.Text = "Chưa Thanh Toán";
+            this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // Quanlyphong
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::QLKS.Properties.Resources.giai_nhiet_mua_he_voi_bo_suu_tap_hinh_nen_bien_xanh;
-            this.ClientSize = new System.Drawing.Size(922, 662);
+            this.ClientSize = new System.Drawing.Size(905, 662);
             this.Controls.Add(this.dgv);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
@@ -235,5 +264,7 @@
         private System.Windows.Forms.Button btthem;
         private System.Windows.Forms.TextBox txttinhtrang;
         private System.Windows.Forms.TextBox txtloaiphong;
+        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }

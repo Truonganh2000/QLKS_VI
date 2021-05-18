@@ -182,5 +182,10 @@ ketnoi.closeConn();
             MessageBox.Show("Xóa phòng thành công!!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             ketnoi.closeConn();
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
